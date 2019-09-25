@@ -1,0 +1,6 @@
+div {
+	text-align: center;
+	overflow: hidden;
+	border: 2px solid rgb(228, 13, 199);
+	width: 600px;
+}
